@@ -32,7 +32,7 @@ Welcome to the BMC (Bradinator's Manual Competition)! This competition is all ab
    - Create a pull request (PR) to the original repository with your submission.
 
 6. **Deadline**:
-   - Submissions must be made before [insert deadline date].
+   - Submissions must be made before the end of the month.
    - Late submissions will not be considered for evaluation.
 
 7. **Evaluation Criteria**:
@@ -42,8 +42,8 @@ Welcome to the BMC (Bradinator's Manual Competition)! This competition is all ab
      - Adherence to the theme and guidelines.
 
 8. **Winners Announcement**:
-   - Winners will be announced on [mention the date].
-   - Prizes will be [mention the prizes here].
+   - Winners will be announced on 1/06/2024.
+   - Prizes will be a spot in the hall of fame.
 
 9. **Contact Information**:
    - For any questions or concerns regarding the competition, contact imnotamilkglass@gmail.com.
