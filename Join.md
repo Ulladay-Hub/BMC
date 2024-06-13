@@ -1,6 +1,10 @@
 # BMC (Bradinator's Manual Competition)
 
-Welcome to the BMC (Bradinator's Manual Competition)! This coding competition is all about creativity, humor, and coding skills. Follow the steps below to join and participate:
+Welcome to the BMC (Bradinator's Manual Competition)! 
+
+The theme is: The holy grail of Ctrl+Z 
+
+This coding competition is all about creativity, humor, and coding skills. Follow the steps below to join and participate:
 
 ## How to Join BMC
 
