@@ -55,7 +55,7 @@ Welcome to the BMC (Bradinator's Manual Competition)! This coding competition is
 
 ## Prizes
 
-- Winners will receive [mention your prizes here].
+- Winners will receive a spot in the hall of fame.
 
 Happy coding and may the best submission win!
 ```
