@@ -1,2 +1,2 @@
 # BMC
-Bradinator's Monthly Competition
+please read [how to join](Join.md) and the [guidelines](guidelines.md).
