@@ -42,7 +42,7 @@ Welcome to the BMC (Bradinator's Manual Competition)! This competition is all ab
      - Adherence to the theme and guidelines.
 
 8. **Winners Announcement**:
-   - Winners will be announced on 1/06/2024.
+   - Winners will be announced on 1/07/2024.
    - Prizes will be a spot in the hall of fame.
 
 9. **Contact Information**:
